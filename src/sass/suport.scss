@@ -1,0 +1,10 @@
+$font-style: normal;
+$font-variant: normal;
+$font-weight: normal;
+$font-color: #222;
+$font-size: 1rem;
+$line-height: 1.5;
+
+html{
+    font: $font-style $font-variant $font-weight $font-color #{$font-size}/#{$line-height};
+}
